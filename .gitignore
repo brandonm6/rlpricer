@@ -1,5 +1,6 @@
 notes.txt
 sent/
+*.pdf
 
 .ipynb_checkpoints
 .DS_Store
